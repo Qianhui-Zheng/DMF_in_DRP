@@ -17,7 +17,6 @@ The training data are obtained from the GDSC Database at https://www.cancerrxgen
 
 ### contained in GitHub
 
-
 The command folder contains the bash commands used to train and test the tasks in 10-fold cross-validation.
 Running the training command will generate 10 paralleled training processes and automatically save the best parameter in the home directory. Then run the test command to test the model performance. 
 
